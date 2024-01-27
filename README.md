@@ -1,249 +1,250 @@
-parcial 
+# Midterm Exam
 
-Temas de Física  
-1er Examen
+Physics Topics
+1st Exam
 
-![parcial_1.png](HTMLFiles/parcial_1.png)
+![midterm_1.png](HTMLFiles/midterm_1.png)
 
-![parcial_2.png](HTMLFiles/parcial_2.png)
+![midterm_2.png](HTMLFiles/midterm_2.png)
 
-![parcial_3.png](HTMLFiles/parcial_3.png)
+![midterm_3.png](HTMLFiles/midterm_3.png)
 
-![parcial_4.png](HTMLFiles/parcial_4.png)
+![midterm_4.png](HTMLFiles/midterm_4.png)
 
-![parcial_5.png](HTMLFiles/parcial_5.png)
+![midterm_5.png](HTMLFiles/midterm_5.png)
 
-![parcial_6.png](HTMLFiles/parcial_6.png)
+![midterm_6.png](HTMLFiles/midterm_6.png)
 
-![parcial_7.png](HTMLFiles/parcial_7.png)
+![midterm_7.png](HTMLFiles/midterm_7.png)
 
-![parcial_8.png](HTMLFiles/parcial_8.png)
+![midterm_8.png](HTMLFiles/midterm_8.png)
 
-![parcial_9.png](HTMLFiles/parcial_9.png)
+![midterm_9.png](HTMLFiles/midterm_9.png)
 
-![parcial_10.png](HTMLFiles/parcial_10.png)
+![midterm_10.png](HTMLFiles/midterm_10.png)
 
-![parcial_11.gif](HTMLFiles/parcial_11.gif)
+![midterm_11.gif](HTMLFiles/midterm_11.gif)
 
-![parcial_12.png](HTMLFiles/parcial_12.png)
+![midterm_12.png](HTMLFiles/midterm_12.png)
 
-Pregunta 2
+## Question 2
 
-a) Establecer el sistema correspondiente a la función Hamiltoniana:
+a) Establish the system corresponding to the Hamiltonian function:
 
-![parcial_13.png](HTMLFiles/parcial_13.png)
+![midterm_13.png](HTMLFiles/midterm_13.png)
 
-analizar las singularidades , establecer mediante curvas de nivel, el retrato de fase y graficar la función Hamiltoniana.
+Analyze the singularities, establish through level curves, the phase portrait, and plot the Hamiltonian function.
 
-![parcial_14.png](HTMLFiles/parcial_14.png)
+![midterm_14.png](HTMLFiles/midterm_14.png)
 
-![parcial_15.png](HTMLFiles/parcial_15.png)
+![midterm_15.png](HTMLFiles/midterm_15.png)
 
-![parcial_16.png](HTMLFiles/parcial_16.png)
+![midterm_16.png](HTMLFiles/midterm_16.png)
 
-![parcial_17.png](HTMLFiles/parcial_17.png)
+![midterm_17.png](HTMLFiles/midterm_17.png)
 
-![parcial_18.png](HTMLFiles/parcial_18.png)
+![midterm_18.png](HTMLFiles/midterm_18.png)
 
-Ubicando las singularidades:
+Locating the singularities:
 
-![parcial_19.png](HTMLFiles/parcial_19.png)
+![midterm_19.png](HTMLFiles/midterm_19.png)
 
-![parcial_20.png](HTMLFiles/parcial_20.png)
+![midterm_20.png](HTMLFiles/midterm_20.png)
 
-Analizando las singularidades
+Analyzing the singularities
 
-En este caso hay 3 singularidades. Estableciendo la matriz Jacobiana:
+In this case, there are 3 singularities. Establishing the Jacobian matrix:
 
-![parcial_21.png](HTMLFiles/parcial_21.png)
+![midterm_21.png](HTMLFiles/midterm_21.png)
 
-![parcial_22.png](HTMLFiles/parcial_22.png)
+![midterm_22.png](HTMLFiles/midterm_22.png)
 
-Evaluando la matriz Jacobiana en P1:
+Evaluating the Jacobian matrix at P1:
 
-![parcial_23.png](HTMLFiles/parcial_23.png)
+![midterm_23.png](HTMLFiles/midterm_23.png)
 
-![parcial_24.png](HTMLFiles/parcial_24.png)
+![midterm_24.png](HTMLFiles/midterm_24.png)
 
-![parcial_25.png](HTMLFiles/parcial_25.png)
+![midterm_25.png](HTMLFiles/midterm_25.png)
 
-![parcial_26.png](HTMLFiles/parcial_26.png)
+![midterm_26.png](HTMLFiles/midterm_26.png)
 
-Obteniendo los autovalores:
+Obtaining the eigenvalues:
 
-![parcial_27.png](HTMLFiles/parcial_27.png)
+![midterm_27.png](HTMLFiles/midterm_27.png)
 
-![parcial_28.png](HTMLFiles/parcial_28.png)
+![midterm_28.png](HTMLFiles/midterm_28.png)
 
-Observamos que es un punto singular hiperbólico  y se puede aplicar el teorema de Hartman. En el sistema lineal resultado de la linealización en un entrono cercano a P1(-1,0), la singularidad (trasladada al origen) tiene un comportamiento cualitativo de tipo “ensilladura”.
+We observe that it is a hyperbolic singular point, and the Hartman theorem can be applied. In the linear system resulting from the linearization in a neighborhood of P1(-1,0), the singularity (translated to the origin) has a qualitative behavior of a "saddle."
 
-Evaluando la matriz Jacobiana en P2:
+Evaluating the Jacobian matrix at P2:
 
-![parcial_29.png](HTMLFiles/parcial_29.png)
+![midterm_29.png](HTMLFiles/midterm_29.png)
 
-![parcial_30.png](HTMLFiles/parcial_30.png)
+![midterm_30.png](HTMLFiles/midterm_30.png)
 
-![parcial_31.png](HTMLFiles/parcial_31.png)
+![midterm_31.png](HTMLFiles/midterm_31.png)
 
-![parcial_32.png](HTMLFiles/parcial_32.png)
+![midterm_32.png](HTMLFiles/midterm_32.png)
 
-Obteniendo los autovalores:
+Obtaining the eigenvalues:
 
-![parcial_33.png](HTMLFiles/parcial_33.png)
+![midterm_33.png](HTMLFiles/midterm_33.png)
 
-![parcial_34.png](HTMLFiles/parcial_34.png)
+![midterm_34.png](HTMLFiles/midterm_34.png)
 
-Observamos que no es un punto singular hiperbólico  y se puede aplicar el Teorema de Lyapunov. Provemos con V(x,y)= H(x,y)= ![parcial_35.png](HTMLFiles/parcial_35.png)
+We observe that it is not a hyperbolic singular point, and the Lyapunov theorem can be applied. Let's try with \(V(x,y) = H(x,y) = \sqrt{x^2 + y^2}\).
 
-![parcial_36.png](HTMLFiles/parcial_36.png)
+![midterm_35.png](HTMLFiles/midterm_35.png)
 
-![parcial_37.png](HTMLFiles/parcial_37.png)
+![midterm_36.png](HTMLFiles/midterm_36.png)
 
-![parcial_38.png](HTMLFiles/parcial_38.png)
+![midterm_37.png](HTMLFiles/midterm_37.png)
 
-![parcial_39.png](HTMLFiles/parcial_39.png)
+![midterm_38.png](HTMLFiles/midterm_38.png)
 
-![parcial_40.png](HTMLFiles/parcial_40.png)
+![midterm_39.png](HTMLFiles/midterm_39.png)
 
-![parcial_41.png](HTMLFiles/parcial_41.png)
+![midterm_40.png](HTMLFiles/midterm_40.png)
 
-![parcial_42.png](HTMLFiles/parcial_42.png)
+![midterm_41.png](HTMLFiles/midterm_41.png)
 
-  
-Evaluando la matriz Jacobiana en P3:
+![midterm_42.png](HTMLFiles/midterm_42.png)
 
-![parcial_43.png](HTMLFiles/parcial_43.png)
+Evaluating the Jacobian matrix at P3:
 
-![parcial_44.png](HTMLFiles/parcial_44.png)
+![midterm_43.png](HTMLFiles/midterm_43.png)
 
-![parcial_45.png](HTMLFiles/parcial_45.png)
+![midterm_44.png](HTMLFiles/midterm_44.png)
 
-![parcial_46.png](HTMLFiles/parcial_46.png)
+![midterm_45.png](HTMLFiles/midterm_45.png)
 
-Obteniendo los autovalores:
+![midterm_46.png](HTMLFiles/midterm_46.png)
 
-![parcial_47.png](HTMLFiles/parcial_47.png)
+Obtaining the eigenvalues:
 
-![parcial_48.png](HTMLFiles/parcial_48.png)
+![midterm_47.png](HTMLFiles/midterm_47.png)
 
-Observamos que es un punto singular hiperbólico  y se puede aplicar el teorema de Hartman. En el sistema lineal resultado de la linealización en un entrono cercano a P3(1,0), la singularidad (trasladada al origen) tiene un comportamiento cualitativo de tipo "ensilladura".
+![midterm_48.png](HTMLFiles/midterm_48.png)
 
-Graficando:
+We observe that it is a hyperbolic singular point, and the Hartman theorem can be applied. In the linear system resulting from the linearization in a neighborhood of P3(1,0), the singularity (translated to the origin) has a qualitative behavior of a "saddle."
 
-![parcial_49.png](HTMLFiles/parcial_49.png)
+Graphing:
 
-![parcial_50.png](HTMLFiles/parcial_50.png)
+![midterm_49.png](HTMLFiles/midterm_49.png)
 
-![parcial_51.png](HTMLFiles/parcial_51.png)
+![midterm_50.png](HTMLFiles/midterm_50.png)
 
-![parcial_52.png](HTMLFiles/parcial_52.png)
+![midterm_51.png](HTMLFiles/midterm_51.png)
 
-![parcial_53.png](HTMLFiles/parcial_53.png)
+![midterm_52.png](HTMLFiles/midterm_52.png)
 
-![parcial_54.png](HTMLFiles/parcial_54.png)
+![midterm_53.png](HTMLFiles/midterm_53.png)
 
-![Graphics:Sistema no lineal](HTMLFiles/parcial_55.gif)         
+![midterm_54.png](HTMLFiles/midterm_54.png)
 
-![parcial_56.png](HTMLFiles/parcial_56.png)
+![Graphics: Nonlinear System](HTMLFiles/midterm_55.gif)
 
-![parcial_57.gif](HTMLFiles/parcial_57.gif)
+![midterm_56.png](HTMLFiles/midterm_56.png)
 
-b) Analizar si el siguiente sistema es un sistema Hamiltoniano. En caso afirmativo, analizar sus singularidades, establecer el retrato de fase mediante curvas de nivel y  graficar la función Hamiltoniana corresponde:
+![midterm_57.gif](HTMLFiles/midterm_57.gif)
 
-![parcial_58.png](HTMLFiles/parcial_58.png) ![parcial_59.png](HTMLFiles/parcial_59.png)
+b) Analyze if the following system is a Hamiltonian system. If affirmative, analyze its singularities, establish the phase portrait through level curves, and plot the corresponding Hamiltonian function:
 
-Definiendo las funciones componentes del campo vectorial asociado al sistema:
+![midterm_58.png](HTMLFiles/midterm_58.png) ![midterm_59.png](HTMLFiles/midterm_59.png)
 
-![parcial_60.gif](HTMLFiles/parcial_60.gif)
+Defining the component functions of the vector field associated with the system:
 
-![parcial_61.png](HTMLFiles/parcial_61.png)
+![midterm_60.gif](HTMLFiles/midterm_60.gif)
 
-![parcial_62.png](HTMLFiles/parcial_62.png)
+![midterm_61.png](HTMLFiles/midterm_61.png)
 
-Ubicando las singularidades:
+![midterm_62.png](HTMLFiles/midterm_62.png)
 
-![parcial_63.png](HTMLFiles/parcial_63.png)
+Locating the singularities:
 
-![parcial_64.png](HTMLFiles/parcial_64.png)
+![midterm_63.png](HTMLFiles/midterm_63.png)
 
-Analizando las singularidades
+![midterm_64.png](HTMLFiles/midterm_64.png)
 
-En este caso hay 3 singularidades. Estableciendo la matriz Jacobiana:
+Analyzing the singularities
 
-![parcial_65.png](HTMLFiles/parcial_65.png)
+In this case, there are 3 singularities. Establishing the Jacobian matrix:
 
-![parcial_66.png](HTMLFiles/parcial_66.png)
+![midterm_65.png](HTMLFiles/midterm_65.png)
 
-Evaluando la matriz Jacobiana en P1:
+![midterm_66.png](HTMLFiles/midterm_66.png)
 
-![parcial_67.png](HTMLFiles/parcial_67.png)
+Evaluating the Jacobian matrix at P1:
 
-![parcial_68.png](HTMLFiles/parcial_68.png)
+![midterm_67.png](HTMLFiles/midterm_67.png)
 
-![parcial_69.png](HTMLFiles/parcial_69.png)
+![midterm_68.png](HTMLFiles/midterm_68.png)
 
-![parcial_70.png](HTMLFiles/parcial_70.png)
+![midterm_69.png](HTMLFiles/midterm_69.png)
 
-Obteniendo los autovalores:
+![midterm_70.png](HTMLFiles/midterm_70.png)
 
-![parcial_71.png](HTMLFiles/parcial_71.png)
+Obtaining the eigenvalues:
 
-![parcial_72.png](HTMLFiles/parcial_72.png)
+![midterm_71.png](HTMLFiles/midterm_71.png)
 
-Observamos que no es un punto singular hiperbólico .  
+![midterm_72.png](HTMLFiles/midterm_72.png)
 
-Evaluando la matriz Jacobiana en P2:
+We observe that it is not a hyperbolic singular point.
 
-![parcial_73.png](HTMLFiles/parcial_73.png)
+Evaluating the Jacobian matrix at P2:
 
-![parcial_74.png](HTMLFiles/parcial_74.png)
+![midterm_73.png](HTMLFiles/midterm_73.png)
 
-![parcial_75.png](HTMLFiles/parcial_75.png)
+![midterm_74.png](HTMLFiles/midterm_74.png)
 
-![parcial_76.png](HTMLFiles/parcial_76.png)
+![midterm_75.png](HTMLFiles/midterm_75.png)
 
-Obteniendo los autovalores:
+![midterm_76.png](HTMLFiles/midterm_76.png)
 
-![parcial_77.png](HTMLFiles/parcial_77.png)
+Obtaining the eigenvalues:
 
-![parcial_78.png](HTMLFiles/parcial_78.png)
+![midterm_77.png](HTMLFiles/midterm_77.png)
 
-Observamos que es un punto singular hiperbólico  y se puede aplicar el teorema de Hartman. En el sistema lineal resultado de la linealización en un entrono cercano a P2(0,0), la singularidad tiene un comportamiento cualitativo de tipo “ensilladura”.
+![midterm_78.png](HTMLFiles/midterm_78.png)
 
-Evaluando la matriz Jacobiana en P3:
+We observe that it is a hyperbolic singular point, and the Hartman theorem can be applied. In the linear system resulting from the linearization in a neighborhood of P2(0,0), the singularity has a qualitative behavior of a "saddle."
 
-![parcial_79.png](HTMLFiles/parcial_79.png)
+Evaluating the Jacobian matrix at P3:
 
-![parcial_80.png](HTMLFiles/parcial_80.png)
+![midterm_79.png](HTMLFiles/midterm_79.png)
 
-![parcial_81.png](HTMLFiles/parcial_81.png)
+![midterm_80.png](HTMLFiles/midterm_80.png)
 
-![parcial_82.png](HTMLFiles/parcial_82.png)
+![midterm_81.png](HTMLFiles/midterm_81.png)
 
-Obteniendo los autovalores:
+![midterm_82.png](HTMLFiles/midterm_82.png)
 
-![parcial_83.png](HTMLFiles/parcial_83.png)
+Obtaining the eigenvalues:
 
-![parcial_84.png](HTMLFiles/parcial_84.png)
+![midterm_83.png](HTMLFiles/midterm_83.png)
 
-Observamos que es un punto no singular hiperbólico .
+![midterm_84.png](HTMLFiles/midterm_84.png)
 
-Graficando:
+We observe that it is a non-hyperbolic singular point.
 
-![parcial_85.png](HTMLFiles/parcial_85.png)
+Graphing:
 
-![parcial_86.png](HTMLFiles/parcial_86.png)
+![midterm_85.png](HTMLFiles/midterm_85.png)
 
-![parcial_87.png](HTMLFiles/parcial_87.png)
+![midterm_86.png](HTMLFiles/midterm_86.png)
 
-![parcial_88.png](HTMLFiles/parcial_88.png)
+![midterm_87.png](HTMLFiles/midterm_87.png)
 
-![parcial_89.png](HTMLFiles/parcial_89.png)
+![midterm_88.png](HTMLFiles/midterm_88.png)
 
-![Graphics:Sistema no lineal](HTMLFiles/parcial_90.gif)         
+![midterm_89.png](HTMLFiles/midterm_89.png)
 
-![parcial_91.png](HTMLFiles/parcial_91.png)
+![Graphics: Nonlinear System](HTMLFiles/midterm_90.gif)
 
-![parcial_92.gif](HTMLFiles/parcial_92.gif)
+![midterm_91.png](HTMLFiles/midterm_91.png)
+
+![midterm_92.gif](HTMLFiles/midterm_92.gif)
 
 [Created with the Wolfram Language](http://www.wolfram.com/language/)
